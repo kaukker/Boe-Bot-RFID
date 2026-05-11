@@ -27,9 +27,9 @@ enum EventCode : uint8_t
   EV_WARNING         = 4,
   EV_RESET           = 5,
 
-  EV_LINE_DETECTED   = 20, //TODO
+  EV_LINE_DETECTED   = 20, 
   EV_LINE_LOST       = 21, 
-  EV_OFF_TRACK       = 22, //TODO
+  EV_OFF_TRACK       = 22, 
   EV_INTERSECTION    = 23, 
   EV_MOTOR_THRHOLD   = 24, 
   EV_WALL_DETECTED   = 25,
