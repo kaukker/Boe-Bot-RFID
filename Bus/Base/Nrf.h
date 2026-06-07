@@ -9,7 +9,7 @@
 #include "Protocol.h"
 #include "StringConversions.h"
 
-#define CHANNEL 90
+#define CHANNEL 76
 #define BASE_NODE 00
 #define ROBOT_NODE 01
 #define MAX_SEND 5
