@@ -14,7 +14,7 @@
 
 #define BASE_NODE  00
 #define ROBOT_NODE 01
-#define CHANNEL 90
+#define CHANNEL 76
 #define MAX_SEND 5 
 #define NO_DATA 0 
 #define MIN_VAL 0
